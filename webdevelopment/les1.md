@@ -17,7 +17,7 @@
 <h2>Opdracht 2</h2>
 <p>Maak in form.html de volgende webpagina an:</p>
 <img src="img/ass_form.png" alt="opdracht 2">
-<p style="color:#f00">Het formulier hoeft nog niet verzonden of verwerkt te worden.</p>
+<p><em>Het formulier hoeft nog niet verzonden of verwerkt te kunnen worden.</em></p>
 <hr>
 
 <h2>Extra's</h2>
