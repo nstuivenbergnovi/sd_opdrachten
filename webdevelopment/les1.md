@@ -1,7 +1,7 @@
 <h1>Webdevelopment - Opdrachten Les #1</h1>
 <hr>
 <h2>Voorbereiding</h2>
-<p>Maak een nieuw project aan in Webstorm of Visual Studio Code. Voeg daaraan de volgende webpagina's (.html) toe:</p>
+<p>Maak een nieuw project aan in Webstorm, Intellij of Visual Studio Code. Voeg daaraan de volgende webpagina's (.html) toe:</p>
 <ul>
 <li>list.html</li>
 <li>form.html</li>
